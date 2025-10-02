@@ -1,26 +1,10 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-
 title: "Haripriyan Uthayakumar"
 first_name: Haripriyan
 middle_name: 
 last_name: Uthayakumar
-contact_note: >
-  Reach out to me for collaborations in sustainability, AI for ecology, and pharmaceutical circular economy.
-description: >
-  Graduate student in Agricultural & Biological Engineering at Purdue University. 
-  Passionate about stream ecology, sustainable industrial systems, and AI-driven solutions.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: sustainability, AI, ecology, pharmaceutical waste, Purdue University
-lang: en
-icon: 🌍
+contact_note: "Reach out to me for collaborations in sustainability, AI for ecology, and pharmaceutical circular economy."
+description: "Graduate student at Purdue University working on sustainable industrial-natural systems."
+footer_text: "Powered by Jekyll with al-folio theme. Hosted on GitHub Pages."
 
-# IMPORTANT: Update these two lines
-url: "https://hari007-2000.github.io"   # your GitHub Pages domain
-baseurl: "/HaripriyanUthayakumar"       # the repo name (keep the slash)
-
-last_updated: false
-back_to_top: true
+url: "https://hari007-2000.github.io"
+baseurl: "/HaripriyanUthayakumar"
